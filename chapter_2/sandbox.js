@@ -6,7 +6,7 @@ let email = 'mario@thenetninja.co.uk';
 
 //let result = email.slice(0,5);
 
-//let result = email.substr(5,12);
+// let result = email.substr(0,5);
 
 //let result = email.replace('m', 'w');
 

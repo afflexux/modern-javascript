@@ -10,10 +10,13 @@ let lastName = 'Sanderson';
 
 let fullName = firstName + ' ' + lastName;
 
-console.log(fullName);
+// ES6
+let fullName2 = `${firstName} ${lastName}`;
+
+console.log(fullName, fullName2);
 
 // getting individual characters
-console.log(fullName[2]);
+console.log(fullName[4]);
 
 // string length
 console.log(fullName.length);
